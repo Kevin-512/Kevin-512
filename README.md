@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Web Development!
 - 🌱 I’m currently learning NextJS.
-- ⚡ Fun fact: I love sports. Football, badminton and taekwondo to name a few.
+- ⚡ Fun fact: I love sports. Football, badminton and taekwondo are my favourites!
   
 <h2> Stats🚀 </h2>
 <div align="center">
